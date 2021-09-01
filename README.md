@@ -1,1 +1,1 @@
-https://irina-mokh.github.io/uber-eats/
+https://irina-mokh.github.io/uber_eats/
